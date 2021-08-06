@@ -1,0 +1,577 @@
+﻿Country,Date,Region,State (Mapping),State1,Year Select,Demographic:Poverty(% of Persons ),Economic:GDP in crore,Number of Records,Political:Total Persons involved in corruption
+India,01-01-1994,Eastern,Bihar,Bihar,False,,0,1,
+India,01-01-1994,Eastern,Chhattisgarh,Chhattisgarh,False,,0,1,
+India,01-01-1994,Eastern,Jharkhand,Jharkhand,False,,0,1,
+India,01-01-1994,Eastern,Odisha,Odisha,False,,0,1,
+India,01-01-1994,Eastern,West Bengal,West Bengal,False,,0,1,
+India,01-01-1994,North Eastern,Arunachal Pradesh,Arunachal Pradesh,False,,0,1,
+India,01-01-1994,North Eastern,Assam,Assam,False,,0,1,
+India,01-01-1994,North Eastern,Manipur,Manipur,False,,0,1,
+India,01-01-1994,North Eastern,Meghalaya,Meghalaya,False,,0,1,
+India,01-01-1994,North Eastern,Mizoram,Mizoram,False,,0,1,
+India,01-01-1994,North Eastern,Nagaland,Nagaland,False,,0,1,
+India,01-01-1994,North Eastern,Sikkim,Sikkim,False,,0,1,
+India,01-01-1994,North Eastern,Tripura,Tripura,False,,0,1,
+India,01-01-1994,Northern,Chandigarh,Chandigarh,False,,0,1,
+India,01-01-1994,Northern,Delhi,Delhi,False,,0,1,
+India,01-01-1994,Northern,Haryana,Haryana,False,,0,1,
+India,01-01-1994,Northern,Himachal Pradesh,Himachal Pradesh,False,,0,1,
+India,01-01-1994,Northern,Jammu and Kashmir,Jammu and Kashmir,False,,0,1,
+India,01-01-1994,Northern,Madhya Pradesh,Madhya Pradesh,False,,0,1,
+India,01-01-1994,Northern,Punjab,Punjab,False,,0,1,
+India,01-01-1994,Northern,Uttar Pradesh,Uttar Pradesh,False,,0,1,
+India,01-01-1994,Northern,Uttarakhand,Uttarakhand,False,,0,1,
+India,01-01-1994,Southern,Andaman & Nicobar Islands,Andaman & Nicobar Islands,False,,0,1,
+India,01-01-1994,Southern,Andhra Pradesh,Andhra Pradesh,False,,0,1,
+India,01-01-1994,Southern,Karnataka,Karnataka,False,,0,1,
+India,01-01-1994,Southern,Kerala,Kerala,False,,0,1,
+India,01-01-1994,Southern,Lakshadweep,Lakshadweep,False,,0,1,
+India,01-01-1994,Southern,Puducherry,Puducherry,False,,0,1,
+India,01-01-1994,Southern,Tamil Nadu,Tamil Nadu,False,,0,1,
+India,01-01-1994,Southern,Telangana,Telangana,False,,0,1,
+India,01-01-1994,Western,Dadra & Nagar Haveli,Dadra & Nagar Haveli,False,,0,1,
+India,01-01-1994,Western,Daman & Diu,Daman & Diu,False,,0,1,
+India,01-01-1994,Western,Goa,Goa,False,,0,1,
+India,01-01-1994,Western,Gujarat,Gujarat,False,,0,1,
+India,01-01-1994,Western,Maharashtra,Maharashtra,False,,0,1,
+India,01-01-1994,Western,Rajasthan,Rajasthan,False,,0,1,
+India,01-01-1999,Eastern,Bihar,Bihar,False,,0,1,
+India,01-01-1999,Eastern,Chhattisgarh,Chhattisgarh,False,,0,1,
+India,01-01-1999,Eastern,Jharkhand,Jharkhand,False,,0,1,
+India,01-01-1999,Eastern,Odisha,Odisha,False,,0,1,
+India,01-01-1999,Eastern,West Bengal,West Bengal,False,,0,1,
+India,01-01-1999,North Eastern,Arunachal Pradesh,Arunachal Pradesh,False,,0,1,
+India,01-01-1999,North Eastern,Assam,Assam,False,,0,1,
+India,01-01-1999,North Eastern,Manipur,Manipur,False,,0,1,
+India,01-01-1999,North Eastern,Meghalaya,Meghalaya,False,,0,1,
+India,01-01-1999,North Eastern,Mizoram,Mizoram,False,,0,1,
+India,01-01-1999,North Eastern,Nagaland,Nagaland,False,,0,1,
+India,01-01-1999,North Eastern,Sikkim,Sikkim,False,,0,1,
+India,01-01-1999,North Eastern,Tripura,Tripura,False,,0,1,
+India,01-01-1999,Northern,Chandigarh,Chandigarh,False,,0,1,
+India,01-01-1999,Northern,Delhi,Delhi,False,,0,1,
+India,01-01-1999,Northern,Haryana,Haryana,False,,0,1,
+India,01-01-1999,Northern,Himachal Pradesh,Himachal Pradesh,False,,0,1,
+India,01-01-1999,Northern,Jammu and Kashmir,Jammu and Kashmir,False,,0,1,
+India,01-01-1999,Northern,Madhya Pradesh,Madhya Pradesh,False,,0,1,
+India,01-01-1999,Northern,Punjab,Punjab,False,,0,1,
+India,01-01-1999,Northern,Uttar Pradesh,Uttar Pradesh,False,,0,1,
+India,01-01-1999,Northern,Uttarakhand,Uttarakhand,False,,0,1,
+India,01-01-1999,Southern,Andaman & Nicobar Islands,Andaman & Nicobar Islands,False,,0,1,
+India,01-01-1999,Southern,Andhra Pradesh,Andhra Pradesh,False,,0,1,
+India,01-01-1999,Southern,Karnataka,Karnataka,False,,0,1,
+India,01-01-1999,Southern,Kerala,Kerala,False,,0,1,
+India,01-01-1999,Southern,Lakshadweep,Lakshadweep,False,,0,1,
+India,01-01-1999,Southern,Puducherry,Puducherry,False,,0,1,
+India,01-01-1999,Southern,Tamil Nadu,Tamil Nadu,False,,0,1,
+India,01-01-1999,Southern,Telangana,Telangana,False,,0,1,
+India,01-01-1999,Western,Dadra & Nagar Haveli,Dadra & Nagar Haveli,False,,0,1,
+India,01-01-1999,Western,Daman & Diu,Daman & Diu,False,,0,1,
+India,01-01-1999,Western,Goa,Goa,False,,0,1,
+India,01-01-1999,Western,Gujarat,Gujarat,False,,0,1,
+India,01-01-1999,Western,Maharashtra,Maharashtra,False,,0,1,
+India,01-01-1999,Western,Rajasthan,Rajasthan,False,,0,1,
+India,01-01-2000,Eastern,Bihar,Bihar,False,,0,1,
+India,01-01-2000,Eastern,Chhattisgarh,Chhattisgarh,False,,0,1,
+India,01-01-2000,Eastern,Jharkhand,Jharkhand,False,,0,1,
+India,01-01-2000,Eastern,Odisha,Odisha,False,,0,1,
+India,01-01-2000,Eastern,West Bengal,West Bengal,False,,0,1,
+India,01-01-2000,North Eastern,Arunachal Pradesh,Arunachal Pradesh,False,,0,1,
+India,01-01-2000,North Eastern,Assam,Assam,False,,0,1,
+India,01-01-2000,North Eastern,Manipur,Manipur,False,,0,1,
+India,01-01-2000,North Eastern,Meghalaya,Meghalaya,False,,0,1,
+India,01-01-2000,North Eastern,Mizoram,Mizoram,False,,0,1,
+India,01-01-2000,North Eastern,Nagaland,Nagaland,False,,0,1,
+India,01-01-2000,North Eastern,Sikkim,Sikkim,False,,0,1,
+India,01-01-2000,North Eastern,Tripura,Tripura,False,,0,1,
+India,01-01-2000,Northern,Chandigarh,Chandigarh,False,,0,1,
+India,01-01-2000,Northern,Delhi,Delhi,False,,0,1,
+India,01-01-2000,Northern,Haryana,Haryana,False,,0,1,
+India,01-01-2000,Northern,Himachal Pradesh,Himachal Pradesh,False,,0,1,
+India,01-01-2000,Northern,Jammu and Kashmir,Jammu and Kashmir,False,,0,1,
+India,01-01-2000,Northern,Madhya Pradesh,Madhya Pradesh,False,,0,1,
+India,01-01-2000,Northern,Punjab,Punjab,False,,0,1,
+India,01-01-2000,Northern,Uttar Pradesh,Uttar Pradesh,False,,0,1,
+India,01-01-2000,Northern,Uttarakhand,Uttarakhand,False,,0,1,
+India,01-01-2000,Southern,Andaman & Nicobar Islands,Andaman & Nicobar Islands,False,,0,1,
+India,01-01-2000,Southern,Andhra Pradesh,Andhra Pradesh,False,,0,1,
+India,01-01-2000,Southern,Karnataka,Karnataka,False,,0,1,
+India,01-01-2000,Southern,Kerala,Kerala,False,,0,1,
+India,01-01-2000,Southern,Lakshadweep,Lakshadweep,False,,0,1,
+India,01-01-2000,Southern,Puducherry,Puducherry,False,,0,1,
+India,01-01-2000,Southern,Tamil Nadu,Tamil Nadu,False,,0,1,
+India,01-01-2000,Southern,Telangana,Telangana,False,,0,1,
+India,01-01-2000,Western,Dadra & Nagar Haveli,Dadra & Nagar Haveli,False,,0,1,
+India,01-01-2000,Western,Daman & Diu,Daman & Diu,False,,0,1,
+India,01-01-2000,Western,Goa,Goa,False,,0,1,
+India,01-01-2000,Western,Gujarat,Gujarat,False,,0,1,
+India,01-01-2000,Western,Maharashtra,Maharashtra,False,,0,1,
+India,01-01-2000,Western,Rajasthan,Rajasthan,False,,0,1,
+India,01-01-2001,Eastern,Bihar,Bihar,False,,0,1,83
+India,01-01-2001,Eastern,Chhattisgarh,Chhattisgarh,False,,0,1,
+India,01-01-2001,Eastern,Jharkhand,Jharkhand,False,,0,1,
+India,01-01-2001,Eastern,Odisha,Odisha,False,,0,1,490
+India,01-01-2001,Eastern,West Bengal,West Bengal,False,,0,1,4
+India,01-01-2001,North Eastern,Arunachal Pradesh,Arunachal Pradesh,False,,0,1,0
+India,01-01-2001,North Eastern,Assam,Assam,False,,0,1,25
+India,01-01-2001,North Eastern,Manipur,Manipur,False,,0,1,6
+India,01-01-2001,North Eastern,Meghalaya,Meghalaya,False,,0,1,0
+India,01-01-2001,North Eastern,Mizoram,Mizoram,False,,0,1,0
+India,01-01-2001,North Eastern,Nagaland,Nagaland,False,,0,1,24
+India,01-01-2001,North Eastern,Sikkim,Sikkim,False,,0,1,0
+India,01-01-2001,North Eastern,Tripura,Tripura,False,,0,1,1
+India,01-01-2001,Northern,Chandigarh,Chandigarh,False,,0,1,43
+India,01-01-2001,Northern,Delhi,Delhi,False,,0,1,87
+India,01-01-2001,Northern,Haryana,Haryana,False,,0,1,209
+India,01-01-2001,Northern,Himachal Pradesh,Himachal Pradesh,False,,0,1,81
+India,01-01-2001,Northern,Jammu and Kashmir,Jammu and Kashmir,False,,0,1,106
+India,01-01-2001,Northern,Madhya Pradesh,Madhya Pradesh,False,,0,1,347
+India,01-01-2001,Northern,Punjab,Punjab,False,,0,1,411
+India,01-01-2001,Northern,Uttar Pradesh,Uttar Pradesh,False,,0,1,132
+India,01-01-2001,Northern,Uttarakhand,Uttarakhand,False,,0,1,1
+India,01-01-2001,Southern,Andaman & Nicobar Islands,Andaman & Nicobar Islands,False,,0,1,0
+India,01-01-2001,Southern,Andhra Pradesh,Andhra Pradesh,False,,0,1,138
+India,01-01-2001,Southern,Karnataka,Karnataka,False,,0,1,202
+India,01-01-2001,Southern,Kerala,Kerala,False,,0,1,1382
+India,01-01-2001,Southern,Lakshadweep,Lakshadweep,False,,0,1,0
+India,01-01-2001,Southern,Puducherry,Puducherry,False,,0,1,10
+India,01-01-2001,Southern,Tamil Nadu,Tamil Nadu,False,,0,1,129
+India,01-01-2001,Southern,Telangana,Telangana,False,,0,1,138
+India,01-01-2001,Western,Dadra & Nagar Haveli,Dadra & Nagar Haveli,False,,0,1,0
+India,01-01-2001,Western,Daman & Diu,Daman & Diu,False,,0,1,0
+India,01-01-2001,Western,Goa,Goa,False,,0,1,14
+India,01-01-2001,Western,Gujarat,Gujarat,False,,0,1,248
+India,01-01-2001,Western,Maharashtra,Maharashtra,False,,0,1,712
+India,01-01-2001,Western,Rajasthan,Rajasthan,False,,0,1,30
+India,01-01-2002,Eastern,Bihar,Bihar,False,,0,1,63
+India,01-01-2002,Eastern,Chhattisgarh,Chhattisgarh,False,,0,1,62
+India,01-01-2002,Eastern,Jharkhand,Jharkhand,False,,0,1,68
+India,01-01-2002,Eastern,Odisha,Odisha,False,,0,1,0
+India,01-01-2002,Eastern,West Bengal,West Bengal,False,,0,1,0
+India,01-01-2002,North Eastern,Arunachal Pradesh,Arunachal Pradesh,False,,0,1,0
+India,01-01-2002,North Eastern,Assam,Assam,False,,0,1,18
+India,01-01-2002,North Eastern,Manipur,Manipur,False,,0,1,20
+India,01-01-2002,North Eastern,Meghalaya,Meghalaya,False,,0,1,0
+India,01-01-2002,North Eastern,Mizoram,Mizoram,False,,0,1,1
+India,01-01-2002,North Eastern,Nagaland,Nagaland,False,,0,1,13
+India,01-01-2002,North Eastern,Sikkim,Sikkim,False,,0,1,3
+India,01-01-2002,North Eastern,Tripura,Tripura,False,,0,1,0
+India,01-01-2002,Northern,Chandigarh,Chandigarh,False,,0,1,9
+India,01-01-2002,Northern,Delhi,Delhi,False,,0,1,94
+India,01-01-2002,Northern,Haryana,Haryana,False,,0,1,534
+India,01-01-2002,Northern,Himachal Pradesh,Himachal Pradesh,False,,0,1,83
+India,01-01-2002,Northern,Jammu and Kashmir,Jammu and Kashmir,False,,0,1,53
+India,01-01-2002,Northern,Madhya Pradesh,Madhya Pradesh,False,,0,1,335
+India,01-01-2002,Northern,Punjab,Punjab,False,,0,1,409
+India,01-01-2002,Northern,Uttar Pradesh,Uttar Pradesh,False,,0,1,145
+India,01-01-2002,Northern,Uttarakhand,Uttarakhand,False,,0,1,4
+India,01-01-2002,Southern,Andaman & Nicobar Islands,Andaman & Nicobar Islands,False,,0,1,1
+India,01-01-2002,Southern,Andhra Pradesh,Andhra Pradesh,False,,0,1,384
+India,01-01-2002,Southern,Karnataka,Karnataka,False,,0,1,508
+India,01-01-2002,Southern,Kerala,Kerala,False,,0,1,589
+India,01-01-2002,Southern,Lakshadweep,Lakshadweep,False,,0,1,0
+India,01-01-2002,Southern,Puducherry,Puducherry,False,,0,1,5
+India,01-01-2002,Southern,Tamil Nadu,Tamil Nadu,False,,0,1,249
+India,01-01-2002,Southern,Telangana,Telangana,False,,0,1,384
+India,01-01-2002,Western,Dadra & Nagar Haveli,Dadra & Nagar Haveli,False,,0,1,0
+India,01-01-2002,Western,Daman & Diu,Daman & Diu,False,,0,1,1
+India,01-01-2002,Western,Goa,Goa,False,,0,1,2
+India,01-01-2002,Western,Gujarat,Gujarat,False,,0,1,398
+India,01-01-2002,Western,Maharashtra,Maharashtra,False,,0,1,587
+India,01-01-2002,Western,Rajasthan,Rajasthan,False,,0,1,30
+India,01-01-2003,Eastern,Bihar,Bihar,False,,0,1,109
+India,01-01-2003,Eastern,Chhattisgarh,Chhattisgarh,False,,0,1,62
+India,01-01-2003,Eastern,Jharkhand,Jharkhand,False,,0,1,13
+India,01-01-2003,Eastern,Odisha,Odisha,False,,0,1,780
+India,01-01-2003,Eastern,West Bengal,West Bengal,False,,0,1,0
+India,01-01-2003,North Eastern,Arunachal Pradesh,Arunachal Pradesh,False,,0,1,0
+India,01-01-2003,North Eastern,Assam,Assam,False,,0,1,55
+India,01-01-2003,North Eastern,Manipur,Manipur,False,,0,1,8
+India,01-01-2003,North Eastern,Meghalaya,Meghalaya,False,,0,1,0
+India,01-01-2003,North Eastern,Mizoram,Mizoram,False,,0,1,0
+India,01-01-2003,North Eastern,Nagaland,Nagaland,False,,0,1,0
+India,01-01-2003,North Eastern,Sikkim,Sikkim,False,,0,1,0
+India,01-01-2003,North Eastern,Tripura,Tripura,False,,0,1,0
+India,01-01-2003,Northern,Chandigarh,Chandigarh,False,,0,1,23
+India,01-01-2003,Northern,Delhi,Delhi,False,,0,1,106
+India,01-01-2003,Northern,Haryana,Haryana,False,,0,1,233
+India,01-01-2003,Northern,Himachal Pradesh,Himachal Pradesh,False,,0,1,57
+India,01-01-2003,Northern,Jammu and Kashmir,Jammu and Kashmir,False,,0,1,128
+India,01-01-2003,Northern,Madhya Pradesh,Madhya Pradesh,False,,0,1,236
+India,01-01-2003,Northern,Punjab,Punjab,False,,0,1,409
+India,01-01-2003,Northern,Uttar Pradesh,Uttar Pradesh,False,,0,1,151
+India,01-01-2003,Northern,Uttarakhand,Uttarakhand,False,,0,1,3
+India,01-01-2003,Southern,Andaman & Nicobar Islands,Andaman & Nicobar Islands,False,,0,1,3
+India,01-01-2003,Southern,Andhra Pradesh,Andhra Pradesh,False,,0,1,250
+India,01-01-2003,Southern,Karnataka,Karnataka,False,,0,1,489
+India,01-01-2003,Southern,Kerala,Kerala,False,,0,1,765
+India,01-01-2003,Southern,Lakshadweep,Lakshadweep,False,,0,1,7
+India,01-01-2003,Southern,Puducherry,Puducherry,False,,0,1,1
+India,01-01-2003,Southern,Tamil Nadu,Tamil Nadu,False,,0,1,252
+India,01-01-2003,Southern,Telangana,Telangana,False,,0,1,250
+India,01-01-2003,Western,Dadra & Nagar Haveli,Dadra & Nagar Haveli,False,,0,1,1
+India,01-01-2003,Western,Daman & Diu,Daman & Diu,False,,0,1,0
+India,01-01-2003,Western,Goa,Goa,False,,0,1,3
+India,01-01-2003,Western,Gujarat,Gujarat,False,,0,1,871
+India,01-01-2003,Western,Maharashtra,Maharashtra,False,,0,1,850
+India,01-01-2003,Western,Rajasthan,Rajasthan,False,,0,1,23
+India,01-01-2004,Eastern,Bihar,Bihar,False,,0,1,146
+India,01-01-2004,Eastern,Chhattisgarh,Chhattisgarh,False,,0,1,34
+India,01-01-2004,Eastern,Jharkhand,Jharkhand,False,,0,1,1
+India,01-01-2004,Eastern,Odisha,Odisha,False,,0,1,631
+India,01-01-2004,Eastern,West Bengal,West Bengal,False,,0,1,0
+India,01-01-2004,North Eastern,Arunachal Pradesh,Arunachal Pradesh,False,,0,1,0
+India,01-01-2004,North Eastern,Assam,Assam,False,,0,1,27
+India,01-01-2004,North Eastern,Manipur,Manipur,False,,0,1,1
+India,01-01-2004,North Eastern,Meghalaya,Meghalaya,False,,0,1,0
+India,01-01-2004,North Eastern,Mizoram,Mizoram,False,,0,1,0
+India,01-01-2004,North Eastern,Nagaland,Nagaland,False,,0,1,247
+India,01-01-2004,North Eastern,Sikkim,Sikkim,False,,0,1,40
+India,01-01-2004,North Eastern,Tripura,Tripura,False,,0,1,0
+India,01-01-2004,Northern,Chandigarh,Chandigarh,False,,0,1,6
+India,01-01-2004,Northern,Delhi,Delhi,False,,0,1,63
+India,01-01-2004,Northern,Haryana,Haryana,False,,0,1,283
+India,01-01-2004,Northern,Himachal Pradesh,Himachal Pradesh,False,,0,1,46
+India,01-01-2004,Northern,Jammu and Kashmir,Jammu and Kashmir,False,,0,1,49
+India,01-01-2004,Northern,Madhya Pradesh,Madhya Pradesh,False,,0,1,129
+India,01-01-2004,Northern,Punjab,Punjab,False,,0,1,685
+India,01-01-2004,Northern,Uttar Pradesh,Uttar Pradesh,False,,0,1,129
+India,01-01-2004,Northern,Uttarakhand,Uttarakhand,False,,0,1,1
+India,01-01-2004,Southern,Andaman & Nicobar Islands,Andaman & Nicobar Islands,False,,0,1,3
+India,01-01-2004,Southern,Andhra Pradesh,Andhra Pradesh,False,,0,1,153
+India,01-01-2004,Southern,Karnataka,Karnataka,False,,0,1,98
+India,01-01-2004,Southern,Kerala,Kerala,False,,0,1,337
+India,01-01-2004,Southern,Lakshadweep,Lakshadweep,False,6.4,0,1,0
+India,01-01-2004,Southern,Puducherry,Puducherry,False,,9783.07,1,0
+India,01-01-2004,Southern,Tamil Nadu,Tamil Nadu,False,,0,1,155
+India,01-01-2004,Southern,Telangana,Telangana,False,,0,1,153
+India,01-01-2004,Western,Dadra & Nagar Haveli,Dadra & Nagar Haveli,False,,0,1,0
+India,01-01-2004,Western,Daman & Diu,Daman & Diu,False,8.8,0,1,0
+India,01-01-2004,Western,Goa,Goa,False,,0,1,0
+India,01-01-2004,Western,Gujarat,Gujarat,False,,0,1,263
+India,01-01-2004,Western,Maharashtra,Maharashtra,False,,0,1,653
+India,01-01-2004,Western,Rajasthan,Rajasthan,False,,0,1,10
+India,01-01-2005,Eastern,Bihar,Bihar,False,54.4,118032.39,1,80
+India,01-01-2005,Eastern,Chhattisgarh,Chhattisgarh,False,49.4,58161.83,1,39
+India,01-01-2005,Eastern,Jharkhand,Jharkhand,False,45.3,79904.77,1,15
+India,01-01-2005,Eastern,Odisha,Odisha,False,57.2,88677.8,1,594
+India,01-01-2005,Eastern,West Bengal,West Bengal,False,34.2,332577.56,1,0
+India,01-01-2005,North Eastern,Arunachal Pradesh,Arunachal Pradesh,False,31.4,4142.02,1,0
+India,01-01-2005,North Eastern,Assam,Assam,False,34.4,59138.85,1,12
+India,01-01-2005,North Eastern,Manipur,Manipur,False,37.9,6300.26,1,14
+India,01-01-2005,North Eastern,Meghalaya,Meghalaya,False,16.1,7292.14,1,2
+India,01-01-2005,North Eastern,Mizoram,Mizoram,False,15.4,4210.15,1,2
+India,01-01-2005,North Eastern,Nagaland,Nagaland,False,8.8,8900.43,1,41
+India,01-01-2005,North Eastern,Sikkim,Sikkim,False,30.9,1941.87,1,44
+India,01-01-2005,North Eastern,Tripura,Tripura,False,40,14208.94,1,0
+India,01-01-2005,Northern,Chandigarh,Chandigarh,False,11.6,8911.55,1,9
+India,01-01-2005,Northern,Delhi,Delhi,False,13,188353.08,1,102
+India,01-01-2005,Northern,Haryana,Haryana,False,24.1,112424.75,1,243
+India,01-01-2005,Northern,Himachal Pradesh,Himachal Pradesh,False,22.9,28949.5,1,67
+India,01-01-2005,Northern,Jammu and Kashmir,Jammu and Kashmir,False,13.1,39607.35,1,133
+India,01-01-2005,Northern,Madhya Pradesh,Madhya Pradesh,False,48.6,124738.22,1,41
+India,01-01-2005,Northern,Punjab,Punjab,False,20.9,105914.81,1,767
+India,01-01-2005,Northern,Uttar Pradesh,Uttar Pradesh,False,40.9,280964.16,1,96
+India,01-01-2005,Northern,Uttarakhand,Uttarakhand,False,32.7,28263.27,1,0
+India,01-01-2005,Southern,Andaman & Nicobar Islands,Andaman & Nicobar Islands,False,3,2083.09,1,1
+India,01-01-2005,Southern,Andhra Pradesh,Andhra Pradesh,False,29.6,244411.72,1,168
+India,01-01-2005,Southern,Karnataka,Karnataka,False,33.3,189452.26,1,340
+India,01-01-2005,Southern,Kerala,Kerala,False,19.6,192298.95,1,104
+India,01-01-2005,Southern,Lakshadweep,Lakshadweep,False,,0,1,0
+India,01-01-2005,Southern,Puducherry,Puducherry,False,14.2,12477.7,1,1
+India,01-01-2005,Southern,Tamil Nadu,Tamil Nadu,False,29.4,364725.98,1,237
+India,01-01-2005,Southern,Telangana,Telangana,False,29.6,244411.72,1,168
+India,01-01-2005,Western,Dadra & Nagar Haveli,Dadra & Nagar Haveli,False,,0,1,0
+India,01-01-2005,Western,Daman & Diu,Daman & Diu,False,,0,1,0
+India,01-01-2005,Western,Goa,Goa,False,24.9,15974.1,1,1
+India,01-01-2005,Western,Gujarat,Gujarat,False,31.6,233544,1,271
+India,01-01-2005,Western,Maharashtra,Maharashtra,False,38.2,468949.71,1,605
+India,01-01-2005,Western,Rajasthan,Rajasthan,False,34.4,144686.95,1,0
+India,01-01-2006,Eastern,Bihar,Bihar,False,53.95,118901.75,1,259
+India,01-01-2006,Eastern,Chhattisgarh,Chhattisgarh,False,49.05,57341.94,1,50
+India,01-01-2006,Eastern,Jharkhand,Jharkhand,False,42.2,73357.55,1,28
+India,01-01-2006,Eastern,Odisha,Odisha,False,47.1,91193.92,1,456
+India,01-01-2006,Eastern,West Bengal,West Bengal,False,30.45,355493.72,1,0
+India,01-01-2006,North Eastern,Arunachal Pradesh,Arunachal Pradesh,False,28.65,4285.45,1,0
+India,01-01-2006,North Eastern,Assam,Assam,False,36.15,59952.67,1,3
+India,01-01-2006,North Eastern,Manipur,Manipur,False,42.5,6737.05,1,1
+India,01-01-2006,North Eastern,Meghalaya,Meghalaya,False,16.6,7876.45,1,0
+India,01-01-2006,North Eastern,Mizoram,Mizoram,False,18.25,4557.52,1,6
+India,01-01-2006,North Eastern,Nagaland,Nagaland,False,14.85,9976.46,1,0
+India,01-01-2006,North Eastern,Sikkim,Sikkim,False,22,2152,1,49
+India,01-01-2006,North Eastern,Tripura,Tripura,False,28.7,15224.71,1,0
+India,01-01-2006,Northern,Chandigarh,Chandigarh,False,10.4,9849.41,1,17
+India,01-01-2006,Northern,Delhi,Delhi,False,13.6,207903.85,1,116
+India,01-01-2006,Northern,Haryana,Haryana,False,22.1,122387.31,1,424
+India,01-01-2006,Northern,Himachal Pradesh,Himachal Pradesh,False,16.2,31401.77,1,39
+India,01-01-2006,Northern,Jammu and Kashmir,Jammu and Kashmir,False,11.25,41785.26,1,69
+India,01-01-2006,Northern,Madhya Pradesh,Madhya Pradesh,False,42.65,130795.58,1,186
+India,01-01-2006,Northern,Punjab,Punjab,False,18.4,111997.14,1,384
+India,01-01-2006,Northern,Uttar Pradesh,Uttar Pradesh,False,39.3,299115.17,1,90
+India,01-01-2006,Northern,Uttarakhand,Uttarakhand,False,25.35,33077.3,1,3
+India,01-01-2006,Southern,Andaman & Nicobar Islands,Andaman & Nicobar Islands,False,1.7,2263.79,1,0
+India,01-01-2006,Southern,Andhra Pradesh,Andhra Pradesh,False,25.35,268602.58,1,173
+India,01-01-2006,Southern,Karnataka,Karnataka,False,28.45,207400.77,1,318
+India,01-01-2006,Southern,Kerala,Kerala,False,15.8,213116.62,1,334
+India,01-01-2006,Southern,Lakshadweep,Lakshadweep,False,,0,1,0
+India,01-01-2006,Southern,Puducherry,Puducherry,False,7.7,12927.86,1,8
+India,01-01-2006,Southern,Tamil Nadu,Tamil Nadu,False,23.25,417583.07,1,135
+India,01-01-2006,Southern,Telangana,Telangana,False,25.35,268602.58,1,173
+India,01-01-2006,Western,Dadra & Nagar Haveli,Dadra & Nagar Haveli,False,,0,1,0
+India,01-01-2006,Western,Daman & Diu,Daman & Diu,False,,0,1,0
+India,01-01-2006,Western,Goa,Goa,False,16.8,17239.24,1,2
+India,01-01-2006,Western,Gujarat,Gujarat,False,27.3,266112,1,178
+India,01-01-2006,Western,Maharashtra,Maharashtra,False,31.35,545906.55,1,645
+India,01-01-2006,Western,Rajasthan,Rajasthan,False,29.6,155378.12,1,26
+India,01-01-2007,Eastern,Bihar,Bihar,False,53.95,137218.02,1,943
+India,01-01-2007,Eastern,Chhattisgarh,Chhattisgarh,False,49.05,71003.04,1,19
+India,01-01-2007,Eastern,Jharkhand,Jharkhand,False,42.2,72179.32,1,18
+India,01-01-2007,Eastern,Odisha,Odisha,False,47.1,104435.87,1,635
+India,01-01-2007,Eastern,West Bengal,West Bengal,False,30.45,386365.02,1,7
+India,01-01-2007,North Eastern,Arunachal Pradesh,Arunachal Pradesh,False,28.65,4428.91,1,0
+India,01-01-2007,North Eastern,Assam,Assam,False,36.15,62114.65,1,1
+India,01-01-2007,North Eastern,Manipur,Manipur,False,42.5,6862.16,1,4
+India,01-01-2007,North Eastern,Meghalaya,Meghalaya,False,16.6,8572.6,1,5
+India,01-01-2007,North Eastern,Mizoram,Mizoram,False,18.25,4789.79,1,6
+India,01-01-2007,North Eastern,Nagaland,Nagaland,False,14.85,10889.77,1,15
+India,01-01-2007,North Eastern,Sikkim,Sikkim,False,22,2281.43,1,52
+India,01-01-2007,North Eastern,Tripura,Tripura,False,28.7,16553.14,1,0
+India,01-01-2007,Northern,Chandigarh,Chandigarh,False,10.4,11605.98,1,29
+India,01-01-2007,Northern,Delhi,Delhi,False,13.6,233834.06,1,64
+India,01-01-2007,Northern,Haryana,Haryana,False,22.1,135566.83,1,202
+India,01-01-2007,Northern,Himachal Pradesh,Himachal Pradesh,False,16.2,34240.69,1,265
+India,01-01-2007,Northern,Jammu and Kashmir,Jammu and Kashmir,False,11.25,44563.23,1,171
+India,01-01-2007,Northern,Madhya Pradesh,Madhya Pradesh,False,42.65,144845.92,1,137
+India,01-01-2007,Northern,Punjab,Punjab,False,18.4,127372.94,1,280
+India,01-01-2007,Northern,Uttar Pradesh,Uttar Pradesh,False,39.3,326192.05,1,198
+India,01-01-2007,Northern,Uttarakhand,Uttarakhand,False,25.35,37326.06,1,0
+India,01-01-2007,Southern,Andaman & Nicobar Islands,Andaman & Nicobar Islands,False,1.7,2794.3,1,0
+India,01-01-2007,Southern,Andhra Pradesh,Andhra Pradesh,False,25.35,300219.77,1,154
+India,01-01-2007,Southern,Karnataka,Karnataka,False,28.45,233149.38,1,301
+India,01-01-2007,Southern,Kerala,Kerala,False,15.8,232872.41,1,343
+India,01-01-2007,Southern,Lakshadweep,Lakshadweep,False,,0,1,0
+India,01-01-2007,Southern,Puducherry,Puducherry,False,7.7,13981.97,1,18
+India,01-01-2007,Southern,Tamil Nadu,Tamil Nadu,False,23.25,483449.58,1,468
+India,01-01-2007,Southern,Telangana,Telangana,False,25.35,300219.77,1,154
+India,01-01-2007,Western,Dadra & Nagar Haveli,Dadra & Nagar Haveli,False,,0,1,0
+India,01-01-2007,Western,Daman & Diu,Daman & Diu,False,,0,1,0
+India,01-01-2007,Western,Goa,Goa,False,16.8,19170.66,1,1
+India,01-01-2007,Western,Gujarat,Gujarat,False,27.3,289723,1,219
+India,01-01-2007,Western,Maharashtra,Maharashtra,False,31.35,623895.76,1,666
+India,01-01-2007,Western,Rajasthan,Rajasthan,False,29.6,176026.08,1,32
+India,01-01-2008,Eastern,Bihar,Bihar,False,53.95,148030.08,1,217
+India,01-01-2008,Eastern,Chhattisgarh,Chhattisgarh,False,49.05,76239.56,1,31
+India,01-01-2008,Eastern,Jharkhand,Jharkhand,False,42.2,91959.66,1,18
+India,01-01-2008,Eastern,Odisha,Odisha,False,47.1,114131.21,1,675
+India,01-01-2008,Eastern,West Bengal,West Bengal,False,30.45,417335.7,1,0
+India,01-01-2008,North Eastern,Arunachal Pradesh,Arunachal Pradesh,False,28.65,5005.15,1,0
+India,01-01-2008,North Eastern,Assam,Assam,False,36.15,64065.22,1,3
+India,01-01-2008,North Eastern,Manipur,Manipur,False,42.5,7173.98,1,0
+India,01-01-2008,North Eastern,Meghalaya,Meghalaya,False,16.6,8857.97,1,0
+India,01-01-2008,North Eastern,Mizoram,Mizoram,False,18.25,5290.23,1,0
+India,01-01-2008,North Eastern,Nagaland,Nagaland,False,14.85,11926.82,1,40
+India,01-01-2008,North Eastern,Sikkim,Sikkim,False,22,2400.54,1,36
+India,01-01-2008,North Eastern,Tripura,Tripura,False,28.7,17381.71,1,0
+India,01-01-2008,Northern,Chandigarh,Chandigarh,False,10.4,12385.51,1,6
+India,01-01-2008,Northern,Delhi,Delhi,False,13.6,260343.37,1,121
+India,01-01-2008,Northern,Haryana,Haryana,False,22.1,145112.36,1,174
+India,01-01-2008,Northern,Himachal Pradesh,Himachal Pradesh,False,16.2,36177.53,1,137
+India,01-01-2008,Northern,Jammu and Kashmir,Jammu and Kashmir,False,11.25,47684.17,1,58
+India,01-01-2008,Northern,Madhya Pradesh,Madhya Pradesh,False,42.65,152525.25,1,131
+India,01-01-2008,Northern,Punjab,Punjab,False,18.4,140582.48,1,336
+India,01-01-2008,Northern,Uttar Pradesh,Uttar Pradesh,False,39.3,346816.18,1,71
+India,01-01-2008,Northern,Uttarakhand,Uttarakhand,False,25.35,44202.16,1,0
+India,01-01-2008,Southern,Andaman & Nicobar Islands,Andaman & Nicobar Islands,False,1.7,3128.21,1,0
+India,01-01-2008,Southern,Andhra Pradesh,Andhra Pradesh,False,25.35,332485.82,1,274
+India,01-01-2008,Southern,Karnataka,Karnataka,False,28.45,260802.04,1,358
+India,01-01-2008,Southern,Kerala,Kerala,False,15.8,255144.67,1,306
+India,01-01-2008,Southern,Lakshadweep,Lakshadweep,False,,0,1,6
+India,01-01-2008,Southern,Puducherry,Puducherry,False,7.7,15224.83,1,0
+India,01-01-2008,Southern,Tamil Nadu,Tamil Nadu,False,23.25,517052.48,1,507
+India,01-01-2008,Southern,Telangana,Telangana,False,25.35,332485.82,1,274
+India,01-01-2008,Western,Dadra & Nagar Haveli,Dadra & Nagar Haveli,False,,0,1,0
+India,01-01-2008,Western,Daman & Diu,Daman & Diu,False,,0,1,0
+India,01-01-2008,Western,Goa,Goa,False,16.8,19804.62,1,2
+India,01-01-2008,Western,Gujarat,Gujarat,False,27.3,324635,1,269
+India,01-01-2008,Western,Maharashtra,Maharashtra,False,31.35,698157.57,1,588
+India,01-01-2008,Western,Rajasthan,Rajasthan,False,29.6,182580.3,1,80
+India,01-01-2009,Eastern,Bihar,Bihar,False,53.95,167235.86,1,192
+India,01-01-2009,Eastern,Chhattisgarh,Chhattisgarh,False,49.05,82190.05,1,50
+India,01-01-2009,Eastern,Jharkhand,Jharkhand,False,42.2,83109.6,1,333
+India,01-01-2009,Eastern,Odisha,Odisha,False,47.1,121716.39,1,657
+India,01-01-2009,Eastern,West Bengal,West Bengal,False,30.45,437845.71,1,0
+India,01-01-2009,North Eastern,Arunachal Pradesh,Arunachal Pradesh,False,28.65,5575.53,1,0
+India,01-01-2009,North Eastern,Assam,Assam,False,36.15,68034.64,1,6
+India,01-01-2009,North Eastern,Manipur,Manipur,False,42.5,7606.17,1,0
+India,01-01-2009,North Eastern,Meghalaya,Meghalaya,False,16.6,10096.5,1,0
+India,01-01-2009,North Eastern,Mizoram,Mizoram,False,18.25,6093.18,1,23
+India,01-01-2009,North Eastern,Nagaland,Nagaland,False,14.85,12636.83,1,85
+India,01-01-2009,North Eastern,Sikkim,Sikkim,False,22,2772.03,1,12
+India,01-01-2009,North Eastern,Tripura,Tripura,False,28.7,19313.02,1,0
+India,01-01-2009,Northern,Chandigarh,Chandigarh,False,10.4,12618.11,1,17
+India,01-01-2009,Northern,Delhi,Delhi,False,13.6,292907.56,1,95
+India,01-01-2009,Northern,Haryana,Haryana,False,22.1,154086.38,1,72
+India,01-01-2009,Northern,Himachal Pradesh,Himachal Pradesh,False,16.2,38095.24,1,248
+India,01-01-2009,Northern,Jammu and Kashmir,Jammu and Kashmir,False,11.25,50978.89,1,58
+India,01-01-2009,Northern,Madhya Pradesh,Madhya Pradesh,False,42.65,174285.35,1,144
+India,01-01-2009,Northern,Punjab,Punjab,False,18.4,147777.56,1,245
+India,01-01-2009,Northern,Uttar Pradesh,Uttar Pradesh,False,39.3,370402.68,1,0
+India,01-01-2009,Northern,Uttarakhand,Uttarakhand,False,25.35,48370.77,1,0
+India,01-01-2009,Southern,Andaman & Nicobar Islands,Andaman & Nicobar Islands,False,1.7,3311.17,1,0
+India,01-01-2009,Southern,Andhra Pradesh,Andhra Pradesh,False,25.35,357134.19,1,209
+India,01-01-2009,Southern,Karnataka,Karnataka,False,28.45,277880.93,1,458
+India,01-01-2009,Southern,Kerala,Kerala,False,15.8,270729.84,1,650
+India,01-01-2009,Southern,Lakshadweep,Lakshadweep,False,6.8,0,1,0
+India,01-01-2009,Southern,Puducherry,Puducherry,False,7.7,18037.19,1,0
+India,01-01-2009,Southern,Tamil Nadu,Tamil Nadu,False,23.25,546741.75,1,934
+India,01-01-2009,Southern,Telangana,Telangana,False,25.35,357134.19,1,209
+India,01-01-2009,Western,Dadra & Nagar Haveli,Dadra & Nagar Haveli,False,39.1,0,1,0
+India,01-01-2009,Western,Daman & Diu,Daman & Diu,False,33.3,0,1,0
+India,01-01-2009,Western,Goa,Goa,False,16.8,21009.22,1,0
+India,01-01-2009,Western,Gujarat,Gujarat,False,27.3,339901,1,230
+India,01-01-2009,Western,Maharashtra,Maharashtra,False,31.35,700188.08,1,616
+India,01-01-2009,Western,Rajasthan,Rajasthan,False,29.6,196675.1,1,73
+India,01-01-2010,Eastern,Bihar,Bihar,True,53.5,181480.22,1,142
+India,01-01-2010,Eastern,Chhattisgarh,Chhattisgarh,True,48.7,82594.34,1,49
+India,01-01-2010,Eastern,Jharkhand,Jharkhand,True,39.1,90278.97,1,200
+India,01-01-2010,Eastern,Odisha,Odisha,True,37,117541,1,1095
+India,01-01-2010,Eastern,West Bengal,West Bengal,True,26.7,472469.18,1,0
+India,01-01-2010,North Eastern,Arunachal Pradesh,Arunachal Pradesh,True,25.9,5803.78,1,0
+India,01-01-2010,North Eastern,Assam,Assam,True,37.9,74457.93,1,9
+India,01-01-2010,North Eastern,Manipur,Manipur,True,47.1,8121.99,1,26
+India,01-01-2010,North Eastern,Meghalaya,Meghalaya,True,17.1,10726.43,1,0
+India,01-01-2010,North Eastern,Mizoram,Mizoram,True,21.1,6812.76,1,14
+India,01-01-2010,North Eastern,Nagaland,Nagaland,True,20.9,13418.73,1,56
+India,01-01-2010,North Eastern,Sikkim,Sikkim,True,13.1,5586.8,1,25
+India,01-01-2010,North Eastern,Tripura,Tripura,True,17.4,21474.11,1,0
+India,01-01-2010,Northern,Chandigarh,Chandigarh,True,9.2,14069.92,1,12
+India,01-01-2010,Northern,Delhi,Delhi,True,14.2,319199.98,1,44
+India,01-01-2010,Northern,Haryana,Haryana,True,20.1,173898.04,1,65
+India,01-01-2010,Northern,Himachal Pradesh,Himachal Pradesh,True,9.5,40607.98,1,118
+India,01-01-2010,Northern,Jammu and Kashmir,Jammu and Kashmir,True,9.4,53836.61,1,68
+India,01-01-2010,Northern,Madhya Pradesh,Madhya Pradesh,True,36.7,189949.72,1,204
+India,01-01-2010,Northern,Punjab,Punjab,True,15.9,158472.71,1,136
+India,01-01-2010,Northern,Uttar Pradesh,Uttar Pradesh,True,37.7,395075.4,1,0
+India,01-01-2010,Northern,Uttarakhand,Uttarakhand,True,18,56499.1,1,0
+India,01-01-2010,Southern,Andaman & Nicobar Islands,Andaman & Nicobar Islands,True,0.4,3656.7,1,3
+India,01-01-2010,Southern,Andhra Pradesh,Andhra Pradesh,True,21.1,369350,1,147
+India,01-01-2010,Southern,Karnataka,Karnataka,True,23.6,274966.62,1,572
+India,01-01-2010,Southern,Kerala,Kerala,True,12,297427.29,1,528
+India,01-01-2010,Southern,Lakshadweep,Lakshadweep,True,,0,1,11
+India,01-01-2010,Southern,Puducherry,Puducherry,True,1.2,19172.82,1,0
+India,01-01-2010,Southern,Tamil Nadu,Tamil Nadu,True,17.1,605175.46,1,670
+India,01-01-2010,Southern,Telangana,Telangana,True,21.1,369350,1,147
+India,01-01-2010,Western,Dadra & Nagar Haveli,Dadra & Nagar Haveli,True,,0,1,0
+India,01-01-2010,Western,Daman & Diu,Daman & Diu,True,,0,1,0
+India,01-01-2010,Western,Goa,Goa,True,8.7,22959.29,1,8
+India,01-01-2010,Western,Gujarat,Gujarat,True,23,398536,1,305
+India,01-01-2010,Western,Maharashtra,Maharashtra,True,24.5,766074.55,1,831
+India,01-01-2010,Western,Rajasthan,Rajasthan,True,24.8,209846.27,1,172
+India,01-01-2011,Eastern,Bihar,Bihar,False,43.62,208816.54,1,167
+India,01-01-2011,Eastern,Chhattisgarh,Chhattisgarh,False,44.31,86958.32,1,49
+India,01-01-2011,Eastern,Jharkhand,Jharkhand,False,38.03,97824.28,1,167
+India,01-01-2011,Eastern,Odisha,Odisha,False,34.79,123120.14,1,804
+India,01-01-2011,Eastern,West Bengal,West Bengal,False,18.19,506912.75,1,137
+India,01-01-2011,North Eastern,Arunachal Pradesh,Arunachal Pradesh,False,30.28,5963.64,1,23
+India,01-01-2011,North Eastern,Assam,Assam,False,34.94,79566.32,1,1
+India,01-01-2011,North Eastern,Manipur,Manipur,False,41.99,8509.25,1,4
+India,01-01-2011,North Eastern,Meghalaya,Meghalaya,False,14.48,11731.11,1,0
+India,01-01-2011,North Eastern,Mizoram,Mizoram,False,20.75,7449.49,1,38
+India,01-01-2011,North Eastern,Nagaland,Nagaland,False,19.89,14188.45,1,193
+India,01-01-2011,North Eastern,Sikkim,Sikkim,False,12.19,5990.36,1,24
+India,01-01-2011,North Eastern,Tripura,Tripura,False,14.33,23223.51,1,0
+India,01-01-2011,Northern,Chandigarh,Chandigarh,False,15.5,15419.41,1,14
+India,01-01-2011,Northern,Delhi,Delhi,False,12.05,348327.32,1,15
+India,01-01-2011,Northern,Haryana,Haryana,False,15.63,189534.44,1,110
+India,01-01-2011,Northern,Himachal Pradesh,Himachal Pradesh,False,8.78,43530.34,1,244
+India,01-01-2011,Northern,Jammu and Kashmir,Jammu and Kashmir,False,9.87,56817.68,1,103
+India,01-01-2011,Northern,Madhya Pradesh,Madhya Pradesh,False,34.17,203505.57,1,193
+India,01-01-2011,Northern,Punjab,Punjab,False,15.3,168751.15,1,82
+India,01-01-2011,Northern,Uttar Pradesh,Uttar Pradesh,False,33.56,425139.1,1,0
+India,01-01-2011,Northern,Uttarakhand,Uttarakhand,False,18.99,62091,1,0
+India,01-01-2011,Southern,Andaman & Nicobar Islands,Andaman & Nicobar Islands,False,0.7,3961.96,1,0
+India,01-01-2011,Southern,Andhra Pradesh,Andhra Pradesh,False,15.15,403228.37,1,168
+India,01-01-2011,Southern,Karnataka,Karnataka,False,22.25,300568,1,508
+India,01-01-2011,Southern,Kerala,Kerala,False,9.52,324423.6,1,171
+India,01-01-2011,Southern,Lakshadweep,Lakshadweep,False,2.77,0,1,0
+India,01-01-2011,Southern,Puducherry,Puducherry,False,4.73,19987.4,1,4
+India,01-01-2011,Southern,Tamil Nadu,Tamil Nadu,False,15.57,689543.84,1,457
+India,01-01-2011,Southern,Telangana,Telangana,False,15.15,403228.37,1,168
+India,01-01-2011,Western,Dadra & Nagar Haveli,Dadra & Nagar Haveli,False,39.31,0,1,0
+India,01-01-2011,Western,Daman & Diu,Daman & Diu,False,9.86,0,1,0
+India,01-01-2011,Western,Goa,Goa,False,6.89,26112.77,1,2
+India,01-01-2011,Western,Gujarat,Gujarat,False,24.12,437261,1,274
+India,01-01-2011,Western,Maharashtra,Maharashtra,False,20.92,855579.89,1,745
+India,01-01-2011,Western,Rajasthan,Rajasthan,False,16.49,239225.69,1,276
+India,01-01-2012,Eastern,Bihar,Bihar,False,33.74,231458.45,1,96
+India,01-01-2012,Eastern,Chhattisgarh,Chhattisgarh,False,39.93,91876.75,1,37
+India,01-01-2012,Eastern,Jharkhand,Jharkhand,False,36.96,106181.48,1,0
+India,01-01-2012,Eastern,Odisha,Odisha,False,32.59,125416.13,1,657
+India,01-01-2012,Eastern,West Bengal,West Bengal,False,9.69,541710.24,1,0
+India,01-01-2012,North Eastern,Arunachal Pradesh,Arunachal Pradesh,False,34.67,6731.47,1,0
+India,01-01-2012,North Eastern,Assam,Assam,False,31.98,84123.86,1,75
+India,01-01-2012,North Eastern,Manipur,Manipur,False,36.89,9017.52,1,2
+India,01-01-2012,North Eastern,Meghalaya,Meghalaya,False,11.87,12559.29,1,0
+India,01-01-2012,North Eastern,Mizoram,Mizoram,False,20.4,8264.88,1,88
+India,01-01-2012,North Eastern,Nagaland,Nagaland,False,18.88,14899.27,1,22
+India,01-01-2012,North Eastern,Sikkim,Sikkim,False,11.28,6455.01,1,22
+India,01-01-2012,North Eastern,Tripura,Tripura,False,11.26,25349.5,1,0
+India,01-01-2012,Northern,Chandigarh,Chandigarh,False,21.81,16717.96,1,23
+India,01-01-2012,Northern,Delhi,Delhi,False,9.91,380185.36,1,24
+India,01-01-2012,Northern,Haryana,Haryana,False,11.16,203511.22,1,96
+India,01-01-2012,Northern,Himachal Pradesh,Himachal Pradesh,False,8.06,46489.38,1,104
+India,01-01-2012,Northern,Jammu and Kashmir,Jammu and Kashmir,False,10.35,60305.95,1,137
+India,01-01-2012,Northern,Madhya Pradesh,Madhya Pradesh,False,31.65,225841.32,1,96
+India,01-01-2012,Northern,Punjab,Punjab,False,14.71,177260.28,1,254
+India,01-01-2012,Northern,Uttar Pradesh,Uttar Pradesh,False,29.43,452907.47,1,0
+India,01-01-2012,Northern,Uttarakhand,Uttarakhand,False,19.98,65437.73,1,0
+India,01-01-2012,Southern,Andaman & Nicobar Islands,Andaman & Nicobar Islands,False,1,4274.78,1,1
+India,01-01-2012,Southern,Andhra Pradesh,Andhra Pradesh,False,9.2,434475.09,1,528
+India,01-01-2012,Southern,Karnataka,Karnataka,False,20.91,315951,1,538
+India,01-01-2012,Southern,Kerala,Kerala,False,7.05,358099.14,1,182
+India,01-01-2012,Southern,Lakshadweep,Lakshadweep,False,,0,1,1
+India,01-01-2012,Southern,Puducherry,Puducherry,False,8.26,24352.77,1,1
+India,01-01-2012,Southern,Tamil Nadu,Tamil Nadu,False,14.05,740266.19,1,561
+India,01-01-2012,Southern,Telangana,Telangana,False,9.2,434475.09,1,528
+India,01-01-2012,Western,Dadra & Nagar Haveli,Dadra & Nagar Haveli,False,,0,1,0
+India,01-01-2012,Western,Daman & Diu,Daman & Diu,False,,0,1,0
+India,01-01-2012,Western,Goa,Goa,False,5.09,28486.31,1,9
+India,01-01-2012,Western,Gujarat,Gujarat,False,16.63,468417,1,239
+India,01-01-2012,Western,Maharashtra,Maharashtra,False,17.35,950396.42,1,994
+India,01-01-2012,Western,Rajasthan,Rajasthan,False,8.19,254023.36,1,288
+India,01-01-2013,Eastern,Bihar,Bihar,False,33.74,268349.16,1,168
+India,01-01-2013,Eastern,Chhattisgarh,Chhattisgarh,False,39.93,98765.94,1,37
+India,01-01-2013,Eastern,Jharkhand,Jharkhand,False,36.96,115620.48,1,40
+India,01-01-2013,Eastern,Odisha,Odisha,False,32.59,130555.36,1,458
+India,01-01-2013,Eastern,West Bengal,West Bengal,False,9.69,585688.04,1,6
+India,01-01-2013,North Eastern,Arunachal Pradesh,Arunachal Pradesh,False,34.67,7050.31,1,12
+India,01-01-2013,North Eastern,Assam,Assam,False,31.98,89422.86,1,4
+India,01-01-2013,North Eastern,Manipur,Manipur,False,36.89,9606.02,1,1
+India,01-01-2013,North Eastern,Meghalaya,Meghalaya,False,11.87,13875.17,1,0
+India,01-01-2013,North Eastern,Mizoram,Mizoram,False,20.4,0,1,18
+India,01-01-2013,North Eastern,Nagaland,Nagaland,False,18.88,15621.93,1,10
+India,01-01-2013,North Eastern,Sikkim,Sikkim,False,11.28,0,1,7
+India,01-01-2013,North Eastern,Tripura,Tripura,False,11.26,27658.23,1,0
+India,01-01-2013,Northern,Chandigarh,Chandigarh,False,,0,1,10
+India,01-01-2013,Northern,Delhi,Delhi,False,9.91,414410.17,1,27
+India,01-01-2013,Northern,Haryana,Haryana,False,11.16,0,1,68
+India,01-01-2013,Northern,Himachal Pradesh,Himachal Pradesh,False,8.06,49307.68,1,362
+India,01-01-2013,Northern,Jammu and Kashmir,Jammu and Kashmir,False,10.35,64300.12,1,118
+India,01-01-2013,Northern,Madhya Pradesh,Madhya Pradesh,False,31.65,246385.07,1,605
+India,01-01-2013,Northern,Punjab,Punjab,False,14.71,185966.46,1,202
+India,01-01-2013,Northern,Uttar Pradesh,Uttar Pradesh,False,29.43,475254.4,1,0
+India,01-01-2013,Northern,Uttarakhand,Uttarakhand,False,19.98,70102.9,1,16
+India,01-01-2013,Southern,Andaman & Nicobar Islands,Andaman & Nicobar Islands,False,,0,1,4
+India,01-01-2013,Southern,Andhra Pradesh,Andhra Pradesh,False,9.2,0,1,304
+India,01-01-2013,Southern,Karnataka,Karnataka,False,20.91,333175,1,2230
+India,01-01-2013,Southern,Kerala,Kerala,False,7.05,0,1,288
+India,01-01-2013,Southern,Lakshadweep,Lakshadweep,False,,0,1,0
+India,01-01-2013,Southern,Puducherry,Puducherry,False,8.26,29997.11,1,2
+India,01-01-2013,Southern,Tamil Nadu,Tamil Nadu,False,14.05,775347.22,1,465
+India,01-01-2013,Southern,Telangana,Telangana,False,9.2,0,1,304
+India,01-01-2013,Western,Dadra & Nagar Haveli,Dadra & Nagar Haveli,False,,0,1,0
+India,01-01-2013,Western,Daman & Diu,Daman & Diu,False,,0,1,1
+India,01-01-2013,Western,Goa,Goa,False,5.09,0,1,23
+India,01-01-2013,Western,Gujarat,Gujarat,False,16.63,0,1,234
+India,01-01-2013,Western,Maharashtra,Maharashtra,False,17.35,0,1,810
+India,01-01-2013,Western,Rajasthan,Rajasthan,False,8.19,0,1,132
